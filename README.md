@@ -93,7 +93,8 @@ print(y_prednew)
 
 ## Output:
 
-![437693808-b0f889e8-7fda-42db-b01a-6e79a36a3815](https://github.com/user-attachments/assets/51800b89-f5c6-404c-8ff6-268738fb019e)
+![Screenshot 2025-04-26 214844](https://github.com/user-attachments/assets/dbec6ebf-7497-4841-9a86-b4673bb8365b)
+
 
 
 ## Result:
